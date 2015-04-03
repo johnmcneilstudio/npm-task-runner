@@ -1,0 +1,11 @@
+/* COLORS */
+$white: #FFF;
+$black: #000;
+
+/* FONTS */
+$font: 'Helvetica';
+
+@mixin helvetica() {
+  font-family: $font;
+  font-weight: normal;
+}

@@ -1,0 +1,13 @@
+/* GRID */
+@mixin centered() {
+  position :relative;
+  margin-left: auto;
+  margin-right: auto;
+  float: none !important;
+}
+
+@mixin uncentered() {
+  margin-left: 0;
+  margin-right: 0;
+  float: left !important;
+}
