@@ -4,7 +4,7 @@ Building the ideal NPM task runner for the team.
 
 Listing plugins / tasks needed for now.
 
-[CONTRIBUTE](CONTRIBUTE.md)
+[CONTRIBUTE](./CONTRIBUTE.md)
 
 ## Doc
 - [http://substack.net/task_automation_with_npm_run](http://substack.net/task_automation_with_npm_run)
