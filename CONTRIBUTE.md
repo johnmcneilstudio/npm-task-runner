@@ -1,0 +1,6 @@
+# CONTRIBUTE
+
+```shell
+$ npm install
+```
+
