@@ -1,8 +1,6 @@
 # NPM TASK RUNNER
 
-Building the ideal NPM task runner for the team.
-
-Listing plugins / tasks needed for now.
+A NPM task runner, without a task runner. For the world.
 
 [CONTRIBUTE](./CONTRIBUTE.md)
 
