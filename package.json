@@ -1,6 +1,6 @@
 {
   "name": "task-runner",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A NPM task runner, without a task runner. For the world.",
   "repository": "",
   "main": "index.js",
