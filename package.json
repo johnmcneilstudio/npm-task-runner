@@ -1,8 +1,8 @@
 {
   "name": "task-runner",
   "version": "1.0.0",
-  "description": "First test of NPM task runner",
-  "repository": "git@bitbucket.org:johnmcneilstudio/npm-task-runner.git",
+  "description": "A NPM task runner, without a task runner. For the world.",
+  "repository": "",
   "main": "index.js",
   "scripts": {
     "hint": "jshint --reporter node_modules/jshint-stylish/stylish.js assets/js/*",
@@ -19,7 +19,12 @@
     "watch": "npm run watch:js & npm run watch:css & npm run watch:html",
     "dev": "parallelshell 'npm run serve' 'npm run watch'"
   },
-  "author": "",
+  "author": "John McNeil Studio",
+  "contributors": [
+    {
+      "name": "raiseandfall"
+    }
+  ],
   "license": "ISC",
   "devDependencies": {
     "browserify": "^9.0.5",
