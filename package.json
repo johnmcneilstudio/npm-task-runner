@@ -13,7 +13,7 @@
     "url": "https://github.com/johnmcneilstudio/npm-task-runner/issues"
   },
   "engines": {
-    "node": ">=0.10.3"
+    "node": "~5.0.0"
   },
   "scripts": {
     "hint": "jshint --reporter=node_modules/jshint-stylish assets/js/*",
